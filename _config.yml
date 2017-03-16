@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
+title: 苏同的博客
+subtitle: 有健康叫资产，没健康叫遗产
+description: 一个腹有节操的码农
+author: 苏同
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://sutong.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
