@@ -71,3 +71,12 @@ deploy:
   type: git
   repo: git@github.com:sutong/sutong.github.io.git
   branch: master
+
+# Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+          
