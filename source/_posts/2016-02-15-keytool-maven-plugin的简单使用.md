@@ -7,7 +7,6 @@ tags:
 - maven
 - keytool-maven-plugin
 ---
-***
 ## 在pom文件的plugin节点中加入如下内容
 {% codeblock lang:xml %}
 <plugin>
