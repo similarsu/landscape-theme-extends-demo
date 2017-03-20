@@ -26,6 +26,7 @@ tags:
 {% endcodeblock %}
 ## 解释如下
 {% asset_img 1-1.jpg %}
+<!-- more -->
 ## 步骤如下
 #### 1、删除已经存在的keystore文件
 {% codeblock lang:bash %}
