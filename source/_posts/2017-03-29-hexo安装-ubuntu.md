@@ -9,7 +9,7 @@ tags:
 - ubuntu
 - 安装
 ---
-#### 1、安装nodejs
+#### 1、安装{% post_link linux中安装nodejs nodejs %}
 #### 2、替换为淘宝npm镜像
 {% codeblock lang:bash %}
 npm install -g cnpm --registry=https://registry.npm.taobao.org
