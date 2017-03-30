@@ -30,20 +30,11 @@ export NODEJS_HOME
 PATH=$PATH:$NODEJS_HOME/bin
 export PATH
 {% endcodeblock %}
-### 6、配置环境变量（对全部用户有效）
-{% codeblock lang:base %}
-vi /etc/profile
-#加入如下信息
-NODEJS_HOME=/opt/node-v0.10.36-linux-x86
-export NODEJS_HOME
-PATH=$PATH:$NODEJS_HOME/bin
-export PATH
-{% endcodeblock %}
-### 7、不用重启，使环境变量起效
+### 6、不用重启，使环境变量起效
 {% codeblock lang:base %}
 source /etc/profile
 {% endcodeblock %}
-### 8、安装是否成功
+### 7、安装是否成功
 {% codeblock lang:base %}
 node -v
 {% endcodeblock %}
