@@ -2,6 +2,7 @@
 title: javascript如何定义函数
 date: 2015-02-06 11:19:16
 categories:
+- 大前端
 - javascript
 tags:
 - javascript

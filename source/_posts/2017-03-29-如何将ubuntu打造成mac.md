@@ -3,7 +3,7 @@ title: 如何将ubuntu打造成mac
 date: 2017-03-29 15:01:45
 categories:
 - 操作系统
-- ubuntu
+- linux
 tags:
 - ubuntu
 - mac

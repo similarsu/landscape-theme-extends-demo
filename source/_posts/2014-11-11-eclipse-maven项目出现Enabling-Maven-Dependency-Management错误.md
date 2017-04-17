@@ -2,6 +2,7 @@
 title: eclipse maven项目出现Enabling Maven Dependency Management错误
 date: 2014-11-11 17:24:18
 categories:
+- IDE
 - eclipse
 tags:
 - eclipse

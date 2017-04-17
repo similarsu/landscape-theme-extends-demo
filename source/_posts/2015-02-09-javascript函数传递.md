@@ -2,6 +2,7 @@
 title: javascript函数传递
 date: 2015-02-09 14:52:34
 categories:
+- 大前端
 - javascript
 tags:
 - javascript

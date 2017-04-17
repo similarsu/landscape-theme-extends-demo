@@ -2,6 +2,7 @@
 title: vmware中linux与window文件共享
 date: 2015-01-29 17:01:16
 categories:
+- 虚拟机
 - vmware
 tags:
 - vmware

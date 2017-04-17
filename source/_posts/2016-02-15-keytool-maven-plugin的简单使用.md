@@ -2,6 +2,7 @@
 title: keytool-maven-plugin的简单使用
 date: 2016-02-15 13:36:09
 categories: 
+- 构建
 - maven
 tags:
 - maven

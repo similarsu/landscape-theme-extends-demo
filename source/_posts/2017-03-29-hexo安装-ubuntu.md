@@ -2,6 +2,7 @@
 title: hexo安装(ubuntu)
 date: 2017-03-29 14:05:01
 categories:
+- 博客
 - hexo
 tags:
 - hexo

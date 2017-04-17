@@ -2,6 +2,7 @@
 title: linux中安装nodejs
 date: 2015-01-30 16:47:26
 categories:
+- 大前端
 - nodejs
 tags:
 - linux

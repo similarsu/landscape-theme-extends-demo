@@ -2,6 +2,7 @@
 title: rabbitmq在windows平台下环境搭建
 date: 2015-04-21 21:38:27
 categories:
+- 消息中间件
 - rabbitmq
 tags:
 - rabbitmq

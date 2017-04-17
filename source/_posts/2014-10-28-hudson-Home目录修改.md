@@ -2,6 +2,7 @@
 title: hudson Home目录修改
 date: 2014-10-28 17:33:54
 categories:
+- 持续集成
 - hudson
 tags:
 - hudson
