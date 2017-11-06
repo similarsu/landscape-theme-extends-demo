@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://sutong.github.io/
+url: http://similarsu.github.io/
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -69,7 +69,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:sutong/sutong.github.io.git
+  repo: git@github.com:similarsu/similarsu.github.io.git
   branch: master
 
 # Feed
