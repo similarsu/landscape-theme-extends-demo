@@ -68,9 +68,12 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:similarsu/similarsu.github.io.git
-  branch: master
+  - type: git
+    repo: git@github.com:similarsu/similarsu.github.io.git
+    branch: master
+  - type: git
+    repo: git@gitee.com:similarsu/similarsu.git
+    branch: master
 
 # Feed
 feed:
